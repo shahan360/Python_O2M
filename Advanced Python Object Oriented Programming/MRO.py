@@ -11,3 +11,9 @@ class C(A):
 
 class D(B, C):
     pass
+
+print(D.num)
+
+print(D.mro())
+print(D.__mro__)
+# both the above are same 
