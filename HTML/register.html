@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Document title that appears on the browser tab -->
+    <title>Register</title>
+</head>
+<body>
+    <!-- Form for user registration, using POST method to submit data -->
+    <form method="POST" action="/submit_registration">
+        <!-- Input field for user's first name -->
+        <label for="first-name">First Name:</label>
+        <input type="text" id="first-name" name="first_name" required><br>
+
+        <!-- Input field for user's last name -->
+        <label for="last-name">Last Name:</label>
+        <input type="text" id="last-name" name="last_name" required><br>
+
+        <!-- Input field for user's email, which is required and validated for email format -->
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
+
+        <!-- Input field for user's password, with a minimum length of 5 characters -->
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" minlength="5" required><br>
+
+        <!-- Input field for user's birthday -->
+        <label for="birthday">Birthday:</label>
+        <input type="date" id="birthday" name="birthday"><br>
+
+        <!-- Radio buttons for selecting gender -->
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="Male">
+        <label for="male">Male</label><br>
+
+        <input type="radio" id="female" name="gender" value="Female">
+        <label for="female">Female</label><br>
+
+        <input type="radio" id="other" name="gender" value="Other">
+        <label for="other">Other</label><br>
+
+        <!-- Checkbox options for pet preference -->
+        <label>Pets:</label><br>
+        <input type="checkbox" id="dogs" name="pets[]" value="Dog">
+        <label for="dogs">Dog</label><br>
+
+        <input type="checkbox" id="cats" name="pets[]" value="Cat">
+        <label for="cats">Cat</label><br>
+
+        <!-- Dropdown selection for car preferences -->
+        <label for="cars">Cars:</label>
+        <select id="cars" name="cars">
+            <option value="volvo">Volvo</option>
+            <option value="saab">Saab</option>
+            <option value="mercedes">Mercedes</option>
+            <option value="audi">Audi</option>
+        </select><br>
+
+        <!-- Submit button to register -->
+        <input type="submit" value="Click to Register!"><br>
+
+        <!-- Reset button to clear form input fields -->
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html>
+

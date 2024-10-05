@@ -1,0 +1,19 @@
+Documentation:
+1. HTML5 Structure: The code uses the <!DOCTYPE html> declaration to define the document type and the html element with a lang attribute set to "en" for better accessibility and SEO.
+
+2. Form Overview: A form is created with the POST method to securely submit the registration data. Each input field is labeled and tied to the corresponding form control using the for attribute of label tags, enhancing accessibility.
+
+3. Input Fields:
+
+- First Name & Last Name: Both are text inputs with required attributes.
+- Email: Uses type="email" for proper email validation.
+- Password: Includes minlength="5" for minimum password strength.
+- Birthday: Uses a date input field for a clean date picker.
+
+4. Radio Buttons (Gender): Radio buttons let the user choose only one gender option. The id attribute links labels to radio inputs for better form accessibility.
+
+5. Checkboxes (Pets): The user can select multiple options for pet preference. Each checkbox is tied to a label for clarity.
+
+6. Dropdown (Cars): The select element allows users to choose one car from a dropdown menu.
+
+7. Submit & Reset: The submit button sends the form data, while the reset button clears all inputs.
