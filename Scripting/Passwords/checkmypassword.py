@@ -88,3 +88,11 @@ def main(args):
 if __name__ == '__main__':
     # Execute the main function with command line arguments, excluding the script name
     sys.exit(main(sys.argv[1:]))
+
+
+# link to generate SHA1 Hash for password: https://passwordsgenerator.net/sha1-hash-generator/
+# link to check password in pwned database: https://haveibeenpwned.com/Passwords
+# link to check password in pwned database using API: https://haveibeenpwned.com/API/v3#PwnedPasswords    
+# link to requests module: https://docs.python-requests.org/en/master/ 
+# link to requests project: https://pypi.org/project/requests/
+
