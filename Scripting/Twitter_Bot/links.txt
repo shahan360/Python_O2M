@@ -1,0 +1,3 @@
+link to twitter API: Here is the documentation for the Tweepy API we will be using in the next couple of videos (specific to version 3.8): https://docs.tweepy.org/en/v3.8.0/index.html
+
+link to tweepy: https://www.tweepy.org/
