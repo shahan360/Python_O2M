@@ -57,3 +57,11 @@
 
 # How to import the joblib library: 
 # from joblib import dump, load
+
+# Learn more about the joblib library: https://joblib.readthedocs.io/en/latest/ 
+# http://scikit-learn.org/stable/modules/model_persistence.html
+
+# Types of Machine Learning Models based on the usability of the model for different types of data requirements:
+#1. Custom MOdels like TensorFlow, PyTorch, Machine Learning Engine
+#2. Pre-trained Models like Vision API, Speech API, Translation API, Natural Language API, Jobs API, Video Intelligence API
+#3. Retrainable Models like AutoML Vision, AutoML Natural Language, AutoML Translation, AutoML Tables, AutoML Video Intelligence, AutoML Vision Edge, AutoML Natural Language Edge, AutoML Tables Edge
