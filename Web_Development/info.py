@@ -20,3 +20,9 @@
 # refresher on virtual environments in Python: https://realpython.com/python-virtual-environments-a-primer/
 
 # where our files should be in relation to the virtual environment: https://stackoverflow.com/questions/1783146/where-in-a-virtualenv-does-the-custom-code-go
+
+# Flask quickstart guide: https://flask.palletsprojects.com/en/2.0.x/quickstart/
+
+# Flask templates: http://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates
+
+
