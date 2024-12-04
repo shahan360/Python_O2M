@@ -1,1 +1,2 @@
-Link for the flask framework of Python: https://flask.palletsprojects.com/en/stable/   
+Link for the flask framework of Python: https://flask.palletsprojects.com/en/stable/  
+Link for the flask-restful library: https://flask-restful.readthedocs.io/en/latest  
