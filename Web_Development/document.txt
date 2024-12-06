@@ -1,3 +1,5 @@
 Link for the flask framework of Python: https://flask.palletsprojects.com/en/stable/  
 Link for the flask-restful library: https://flask-restful.readthedocs.io/en/latest 
 Link for the flask-sqlalchemy library: https://flask-sqlalchemy.palletsprojects
+
+Link to Flask request data: https://flask.palletsprojects.com/en/1.1.x/quickstart/#accessing-request-data
