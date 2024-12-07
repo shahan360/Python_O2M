@@ -6,3 +6,5 @@ Link to Flask request data: https://flask.palletsprojects.com/en/1.1.x/quickstar
 
 Link to Python CSV Module: https://docs.python.org/3/library/csv.html
 
+How requirements and pipfreeze works: https://www.idkrtm.com/what-is-the-python-requirements-txt/
+
