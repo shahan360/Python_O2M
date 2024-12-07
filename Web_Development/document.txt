@@ -8,3 +8,4 @@ Link to Python CSV Module: https://docs.python.org/3/library/csv.html
 
 How requirements and pipfreeze works: https://www.idkrtm.com/what-is-the-python-requirements-txt/
 
+Python Anywhere with Flask: https://help.pythonanywhere.com/pages/Flask/
