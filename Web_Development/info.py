@@ -25,4 +25,7 @@
 
 # Flask templates: http://flask.palletsprojects.com/en/1.1.x/quickstart/#rendering-templates
 
+# pip3 freeze > requirements.txt will create a requirements.txt file with all the dependencies of the project so we don't have to upload the folders created by the virtual environment to the repository on GitHub.com
+
+
 
