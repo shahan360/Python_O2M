@@ -1,1 +1,0 @@
-9999999999{"name": "pyobjc-framework-PhotosUI", "version": "9.0", "summary": "Wrappers for the framework PhotosUI on macOS", "platform": "MacOS X (>=10.11)", "requires_dist": ["pyobjc-core (>=9.0)", "pyobjc-framework-Cocoa (>=9.0)"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
