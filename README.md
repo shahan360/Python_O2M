@@ -75,7 +75,7 @@ The repository is organized into folders and files based on topics and concepts 
 
 ## How to Use This Repository
 
-1. Clone this repository: git clone https://github.com/yourusername/python-tutorials-zero-to-mastery.git
+1. Clone this repository: git clone https://github.com/shahan360/Python_O2M.git
 2. Navigate through the folders based on the topic you want to learn.
 3. Run the example scripts or create your own projects using the concepts learned.
 4. Contribute by adding more tutorials or improving existing ones!
