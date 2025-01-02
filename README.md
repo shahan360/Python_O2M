@@ -1,6 +1,6 @@
-# Python Tutorials: Zero to Mastery
+# Python Tutorials: O2M
 
-Welcome to the **Python Tutorials: Zero to Mastery** repository! 🎉 This repository is a comprehensive collection of Python tutorials and projects designed to take you from a beginner to an advanced Python programmer. Whether you're just starting out or looking to deepen your knowledge, this repository has something for everyone.
+Welcome to the **Python Tutorials: O2M** repository! 🎉 This repository is a comprehensive collection of Python tutorials and projects designed to take you from a beginner to an advanced Python programmer. Whether you're just starting out or looking to deepen your knowledge, this repository has something for everyone.
 
 ## Repository Structure
 
@@ -83,10 +83,6 @@ The repository is organized into folders and files based on topics and concepts 
 ## Contributions
 
 Contributions are welcome! Feel free to open issues or submit pull requests if you have improvements or additional content you'd like to share. Let's grow together as a community!
-
-## License
-
-This project is licensed under the MIT License. Feel free to use it as you see fit while giving proper credit.
 
 ---
 
